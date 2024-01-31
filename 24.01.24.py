@@ -76,8 +76,8 @@ Maaş += Çocuk sayısı * 400 TL
 Çocuk sayısı için negatif sayı girilmesin.
 Maaş: 17002  
 """
-cocuk_sayisi=int(input("Çocuk Sayısını Giriniz"))
-maas=17002
+#cocuk_sayisi=int(input("Çocuk Sayısını Giriniz"))
+#maas=17002
 
 # if cocuk_sayisi>=0 and cocuk_sayisi<=3:
 #     print(f"Guncel Maaşınız:{maas+(cocuk_sayisi*200)}")
