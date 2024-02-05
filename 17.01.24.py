@@ -109,7 +109,7 @@ boolean(bool)=> true ve false saklar sadece
 # print("Merhaba Dünya Burası mecidiyeköy Burdan çıkış yok",end="-------\n")
 # print("Merhaba Dünya Burası mecidiyeköy Burdan çıkış yok")
 
-^#sep
+
 print("Merhaba Dünya","Burası mecidiyeköy","Burdan çıkış yok",sep="\n")
 
 
